@@ -118,6 +118,5 @@ We used **Google Looker Studio** to build interactive dashboards:
 
 * `SQL Queries/`: Raw query scripts
 * `Dashboard/`: Screenshots and Looker Studio link
-* `Report.pdf`: Detailed project report (attached here)
 
 
