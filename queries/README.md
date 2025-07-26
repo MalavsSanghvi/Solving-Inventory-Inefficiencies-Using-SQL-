@@ -21,3 +21,6 @@ Restocking time and stockout frequency analysis.
 
 ## trigger_query.sql  
 Trigger function to monitor and alert on low inventory levels.
+
+## extra.sql  
+Extra queries that were not giving the desired output
