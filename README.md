@@ -16,6 +16,17 @@ This project focuses on diagnosing and optimizing inventory performance for **Ur
 ```md
 ![ER Diagrams](images/image.png)
 ```
+# Add the image file to be tracked by Git
+git add images/image.png
+
+# (Or add all new files at once)
+# git add .
+
+# Commit the change with a message
+git commit -m "Add ER diagram image"
+
+# Push the change to your remote repository on GitHub
+git push
 
 ### Key SQL Components
 
