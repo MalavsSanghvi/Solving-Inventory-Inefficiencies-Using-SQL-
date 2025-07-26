@@ -13,6 +13,9 @@ This project focuses on diagnosing and optimizing inventory performance for **Ur
 * **Business Impact**: Reduced stockouts, improved turnover, better forecasting.
 
 ---
+```md
+![ER Diagrams](images/image.png)
+```
 
 ### Key SQL Components
 
@@ -36,19 +39,6 @@ This project focuses on diagnosing and optimizing inventory performance for **Ur
 
 * **Revenue Leakage Detection**
   Filters for `Inventory = 0 AND Forecast > 0` to estimate loss.
-
----
-
-### Dashboard Preview
-
-We used **Google Looker Studio** to build interactive dashboards:
-[View Dashboard](https://lookerstudio.google.com/reporting/af4086e5-bad2-4e92-ab12-ad998258081d)
-
-> *(Add a screenshot of the dashboard below)*
-
-```md
-![Dashboard Preview](images/dashboard_preview.png)
-```
 
 ---
 
@@ -96,23 +86,7 @@ We used **Google Looker Studio** to build interactive dashboards:
 
 ---
 
-## How to Add Images to README
 
-1. Create an `images/` folder in your GitHub repository root.
-2. Upload image(s) using drag-and-drop or GitHub UI.
-3. Use this markdown syntax in the README to embed:
-
-   ```md
-   ![Alt Text](images/your_image_name.png)
-   ```
-
-> Example:
-
-```md
-![Stockout Analysis](images/stockout_example.png)
-```
-
----
 
 ## Files
 
