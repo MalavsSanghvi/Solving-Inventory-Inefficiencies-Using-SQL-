@@ -13,9 +13,8 @@ This project focuses on diagnosing and optimizing inventory performance for **Ur
 * **Business Impact**: Reduced stockouts, improved turnover, better forecasting.
 
 ---
-```md
-![ER Diagrams](image/image.png)
-```
+![Alt Text]([https://user-images.githubusercontent.com/123456789/your-image.png](https://github.com/MalavsSanghvi/Solving-Inventory-Inefficiencies-Using-SQL-/blob/main/image/qq.png))
+
 
 ### Key SQL Components
 
