@@ -1,29 +1,23 @@
-#Content Table
+# Content Table
 
-##DataLoading.sql
-    Table Creations Raw Data,store, product, ales, etc.
-    Importing Data
-    Inserting of Data from raw data to specific tables like product sales
+## DataLoading.sql  
+Table creations: Raw Data, Store, Product, Sales, etc.  
+Importing & inserting data from raw source to specific tables.
 
-##Indexing.sql
-    Indexing of Data
+## Indexing.sql  
+Indexing of data for performance optimization.
 
-##abcanalysis.sql
-    claculation of cumulative revenue and division into 3 classes
-    used window functions
+## abcanalysis.sql  
+Calculation of cumulative revenue and division into A/B/C classes using window functions.
 
-##sqlqueries.sql
-    creating major KPIs
-        Top Selling Products
-        Forecast Accuracy
-        revenue leakage due to stockout
-    Also did joining of tables
+## sqlqueries.sql  
+Creating major KPIs: Top Selling Products, Forecast Accuracy, Revenue Leakage due to stockout, table joins.
 
-##supplier_performance.sql
-    Lead time calculations using sliding window
+## supplier_performance.sql  
+Lead time calculations using sliding window functions.
 
-##supply.sql
-    Restocking time 
+## supply.sql  
+Restocking time and stockout frequency analysis.
 
-##trigger_query.sql
-    trigger function
+## trigger_query.sql  
+Trigger function to monitor and alert on low inventory levels.
